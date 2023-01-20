@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">Mobile app Developer & Back-End Developer</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Badwy</h1>
+<h3 align="center">Mobile app Developer (Flutter & Dart) & Back-End Developer (Laravel & PHP)</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharwatsamy&label=Profile%20views&color=0e75b6&style=flat" alt="tharwatsamy" /> </p> -->
 
