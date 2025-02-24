@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.mahmoud-badwy.com/blog/](https://www.mahmoud-badwy.com/blog/)
 
-- 💬 Ask me about **Mobile Development, Flutter Developer**
+- 💬 Ask me about **Mobile Development, Flutter Development**
 
 - 📫 How to reach me **mahmoudbadwysliem@gmial.com**
 
