@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Badwy</h1>
 <h3 align="center">A Computer Engineering Student at Faculty of Engineering, Ain Shams University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-badwy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-badwy" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-badwy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-badwy" /> </p> -->
 
 
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Computer Enginnering**
 
-- 👨‍💻 All of my projects are available at [https://www.mahmoud-badwy.com](https://www.mahmoud-badwy.com)
+- 👨‍💻 All of my projects are available at [https://mahmoud-badwy.vercel.app/](https://mahmoud-badwy.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.mahmoud-badwy.com/blog/](https://www.mahmoud-badwy.com/blog/)
+- 📝 I regularly write articles on [https://mahmoud-badwy.vercel.app/blog](https://mahmoud-badwy.vercel.app/blog)
 
 - 💬 Ask me about **Mobile Development, Flutter Development**
 
