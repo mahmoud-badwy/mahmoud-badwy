@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Computer Enginnering**
 
-- 👨‍💻 All of my projects are available at [https://mahmoud-badwy.vercel.app/](https://mahmoud-badwy.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://mahmoud-badwy.vercel.app/](https://mahmoud-badwy.vercel.app/) 
 
-- 📝 I regularly write articles on [https://mahmoud-badwy.vercel.app/blog](https://mahmoud-badwy.vercel.app/blog)
+- 📝 I regularly write articles on [https://mahmoud-badwy.vercel.app/blog](https://mahmoud-badwy.vercel.app/blog)-->
 
 - 💬 Ask me about **Mobile Development, Flutter Development**
 
