@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Mobile Development, Flutter Development**
 
-- 📫 How to reach me **mahmoudbadwysliem@gmial.com**
+- 📫 How to reach me **mahmoudbadwysliem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
