@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Education App**
+- 🔭 I’m currently working at **EES** as a Flutter Developer
 
-- 🌱 I’m currently learning **Flutter, Computer Enginnering**
+- 🌱 I’m currently learning **Flutter, Computer Engineering**
 
 <!-- - 👨‍💻 All of my projects are available at [https://mahmoud-badwy.vercel.app/](https://mahmoud-badwy.vercel.app/) 
 
