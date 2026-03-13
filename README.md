@@ -6,7 +6,6 @@
 - 🔭 I’m currently working as a **Flutter Developer** and building full-stack applications with **Serverpod**.
 - 🌱 I’m currently deepening my knowledge in **Software Engineering, Data Structures, and Algorithms**.
 - 📱 I am starting to explore **iOS Development** as a primary area of focus for my future career growth.
-- 💻 Specialized in mobile solutions for hospitality, including the **Fort Arabesque Resort** app.
 - 💬 Ask me about **Mobile Apps Development, Flutter, Dart, Serverpod, and Competitive Programming**.
 - 🌐 Read more about my work at [**mahmoudbadwy.dev**](https://mahmoudbadwy.dev)
 - 📫 How to reach me: **contact@mahmoudbadwy.dev**
