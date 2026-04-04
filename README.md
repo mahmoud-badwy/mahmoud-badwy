@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** at Ain Shams University with a passion for building high-performance, scalable mobile applications. While my roots are in **Flutter**, I'm currently expanding my expertise into **Native iOS (Swift)** to master the mobile ecosystem. 
+I'm a **Software Engineer** with a passion for building high-performance, scalable mobile applications. While my roots are in **Flutter**, I'm currently expanding my expertise into **Native iOS (Swift)** to master the mobile ecosystem. 
 
 * 🏆 **Competitive Programmer:** Regularly solving algorithmic challenges to keep my logic sharp.
 * 🚀 **Current Focus:** Deep-diving into iOS architecture and AI-integrated mobile tools.
