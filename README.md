@@ -1,35 +1,45 @@
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mahmoud+from+Egypt)](https://mahmoudbadwy.dev)
-
+<p align="center">
+  <a href="https://mahmoudbadwy.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mahmoud+from+Egypt;Mobile+Developer+%26+Problem+Solver;Building+with+Flutter+%26+Swift" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🧑‍💻 About Me
 
-I'm a Software Engineer with a passion for building high-performance mobile applications.
+I'm a **Software Engineer** at Ain Shams University with a passion for building high-performance, scalable mobile applications. While my roots are in **Flutter**, I'm currently expanding my expertise into **Native iOS (Swift)** to master the mobile ecosystem. 
 
-👉 You can read more about me and my projects on my [personal website](https://mahmoudbadwy.dev).
-  
-  <br>
-  
-[![My Skills](https://skillicons.dev/icons?i=flutter,swift,kotlin,dart,docker,supabase,firebase,gcp,vscode,visualstudio,postgres,py)](https://skillicons.dev)
+* 🏆 **Competitive Programmer:** Regularly solving algorithmic challenges to keep my logic sharp.
+* 🚀 **Current Focus:** Deep-diving into iOS architecture and AI-integrated mobile tools.
+* 🌍 **Check out my work:** [mahmoudbadwy.dev](https://mahmoudbadwy.dev)
 
+<br>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,swift,dart,kotlin,cpp,docker,supabase,firebase,gcp,postgres,py,vscode,vs" />
+  </a>
+</p>
+
+<!--## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-badwy&show_icons=true&theme=radical&hide_border=true" alt="Mahmoud's GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-badwy&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="170" />
+</p>-->
 ## 💼 Hire Me
 
-I am available for hire in **Egypt** 🇪🇬 or remote.  
-If you’re looking for a dedicated developer with expertise in Flutter, Swift, and mobile development, feel free to reach out using the contact options below.
-
+I am available for hire in **Egypt** 🇪🇬 or for **remote** roles worldwide.  
+If you’re looking for a dedicated developer with expertise in Flutter, Swift, and modern backend integrations, let's talk!
 
 ## 🤝 Get in Touch
 
-I'm always open to collaboration and connecting with fellow developers. If you have any questions, ideas, or just want to say hello, don't hesitate to reach out:
-
-- 🌐 Website: [mahmoudbadwy.dev](https://mahmoudbadwy.dev)  
-- 📧 Email: [contact@mahmoudbadwy.dev](mailto:contact@mahmoudbadwy.dev)
-- 📩 Telegram: [@MahmoudBadwy25](https://t.me/MahmoudBadwy25)
-- linkedin: [mahmoud-badwi](https://www.linkedin.com/in/mahmoud-badwi/)
-
-Let's code, learn, and build amazing things together! 🚀
+- 🌐 **Website:** [mahmoudbadwy.dev](https://mahmoudbadwy.dev)  
+- 📧 **Email:** [contact@mahmoudbadwy.dev](mailto:contact@mahmoudbadwy.dev)
+- 📩 **Telegram:** [@MahmoudBadwy25](https://t.me/MahmoudBadwy25)
+- 🔗 **LinkedIn:** [mahmoud-badwi](https://www.linkedin.com/in/mahmoud-badwi/)
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-badwy" alt="mahmoud-badwy"/> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mahmoud-badwy&color=blueviolet" alt="mahmoud-badwy"/> 
+</p>
