@@ -6,11 +6,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** with a passion for building high-performance, scalable mobile applications. While my roots are in **Flutter**, I'm currently expanding my expertise into **Native iOS (Swift)** to master the mobile ecosystem. 
+I'm a **Software Engineer** with a passion for building high-performance, scalable mobile applications. While my roots are in **Flutter**, I'm currently expanding my expertise into **Native Mobile Development iOS (Swift) and Android (kotlin)** to master the mobile ecosystem. 
 
 * 🏆 **Competitive Programmer:** Regularly solving algorithmic challenges to keep my logic sharp.
-* 🚀 **Current Focus:** Deep-diving into iOS architecture and AI-integrated mobile tools.
-* 🌍 **Check out my work:** [mahmoudbadwy.dev](https://mahmoudbadwy.dev)
+* 🚀 **Current Focus:** Deep-diving into Moblie Apps architecture and AI-integrated mobile tools.
+* 🌍 **Check out my website:** [mahmoudbadwy.dev](https://mahmoudbadwy.dev)
 
 <br>
 
@@ -29,7 +29,7 @@ I'm a **Software Engineer** with a passion for building high-performance, scalab
 ## 💼 Hire Me
 
 I am available for hire in **Egypt** 🇪🇬 or for **remote** roles worldwide.  
-If you’re looking for a dedicated developer with expertise in Flutter, Swift, and modern backend integrations, let's talk!
+If you’re looking for a dedicated developer with expertise in Flutter, Swift, Android and modern backend integrations, let's talk!
 
 ## 🤝 Get in Touch
 
