@@ -16,7 +16,7 @@ I'm a **Software Engineer** with a passion for building high-performance, scalab
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,swift,dart,kotlin,cpp,docker,supabase,firebase,gcp,postgres,py,vscode,vs" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,postgres,mysql,kotlin,cpp,docker,supabase,firebase,py" />
   </a>
 </p>
 
